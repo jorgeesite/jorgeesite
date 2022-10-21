@@ -2,7 +2,8 @@
 
 <div align "center">
 <img src="https://user-images.githubusercontent.com/33360739/197096940-6a42d296-dcdc-4eae-9da9-0c8254ed85f7.png" "width="700px"/>
-
+## <h2> Graduado em Marketing Técnologo pela Universidade Braz Cubas ano letivo de 2014, sempre gostei de tecnologia, por este motivo resolvi fazer a migração de carreira. Já construi alguns sites e por este motivo o interesse com Front-end. Tenho conhecimentos avançados com Photoshop e muita criatvidade para atuar com Design Digital, porém o foco é  Dev Web Front-End . Atualmente estou em uma mentoria chamada Comunidade Code que conta com mais de 600 alunos, onde venho me aperfeiçoando a cada dia.
+<h3> A pandemia alterou ou extinguiu mercados inteiros, acelerou a transformação digital e obrigou as empresas a reformularem seus processos e modelos de trabalho. Nesse cenário de reconfiguração geral, muitos profissionais foram levados a recomeçar "do zero", inclusive "Eu"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
