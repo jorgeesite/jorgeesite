@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/33360739/197096940-6a42d296-dcdc-4eae-9da9-0c8254ed85f7.png" "width="700px"/>
 ## <h2> Migração de carreira - Front-end
   
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 <a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-de-oliveira-324a69235/" height="30" width="40" /></a>
