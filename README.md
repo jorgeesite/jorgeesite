@@ -1,6 +1,6 @@
 
 
-<div align "center">
+
 <img src="https://user-images.githubusercontent.com/33360739/197096940-6a42d296-dcdc-4eae-9da9-0c8254ed85f7.png" "width="700px"/>
 ## <h2> Migração de carreira - Front-end
   
