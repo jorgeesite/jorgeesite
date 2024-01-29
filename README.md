@@ -2,13 +2,12 @@
 
 <div align "center">
 <img src="https://user-images.githubusercontent.com/33360739/197096940-6a42d296-dcdc-4eae-9da9-0c8254ed85f7.png" "width="700px"/>
-## <h2> Graduado em Marketing Técnologo pela Universidade Braz Cubas ano letivo de 2014, objetivo  migração de carreira - Front-end
-  Habilidades: 
-  Adobe Photoshop, Adobe Illustrator, Pacote Office 
+## <h2> Migração de carreira - Front-end
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/jorge-de-oliveira-324a69235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-de-oliveira-324a69235/" height="30" width="40" /></a>
+<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-de-oliveira-324a69235/" height="30" width="40" /></a>
 <a href="https://instagram.com/jorgeefamilia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgeefamilia" height="30" width="40" /></a>
 <a href="https://discord.gg/jorgeereis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jorgeereis" height="30" width="40" /></a>
 </p>
